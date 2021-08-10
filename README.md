@@ -6,5 +6,5 @@ To run the project simply download all the files and run the index.html on your 
 
 This project was based on the JavaScript course at scrimba. The course can be checked here (https://scrimba.com/learn/learnjavascript).
 
-![image](https://user-images.githubusercontent.com/69646100/128910428-12f443d7-0764-49a1-90a9-47a1e4385ea9.png)
+![image](https://user-images.githubusercontent.com/69646100/128910554-3b801c7e-2e8f-4634-a44f-55e82e0a7223.png)
 
